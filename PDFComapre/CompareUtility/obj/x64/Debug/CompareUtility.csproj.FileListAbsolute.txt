@@ -1,0 +1,1 @@
+D:\PDFComapre\CompareUtility\obj\x64\Debug\CompareUtility.csprojResolveAssemblyReference.cache

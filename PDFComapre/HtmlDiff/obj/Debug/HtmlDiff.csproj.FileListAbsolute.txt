@@ -1,0 +1,9 @@
+C:\Users\rajesh.1.sharma\Downloads\htmldiff.net-master\htmldiff.net-master\HtmlDiff\bin\Debug\HtmlDiff.dll
+C:\Users\rajesh.1.sharma\Downloads\htmldiff.net-master\htmldiff.net-master\HtmlDiff\bin\Debug\HtmlDiff.pdb
+C:\Users\rajesh.1.sharma\Downloads\htmldiff.net-master\htmldiff.net-master\HtmlDiff\obj\Debug\HtmlDiff.csprojResolveAssemblyReference.cache
+C:\Users\rajesh.1.sharma\Downloads\htmldiff.net-master\htmldiff.net-master\HtmlDiff\obj\Debug\HtmlDiff.dll
+C:\Users\rajesh.1.sharma\Downloads\htmldiff.net-master\htmldiff.net-master\HtmlDiff\obj\Debug\HtmlDiff.pdb
+D:\PDFComapre\HtmlDiff\bin\Debug\HtmlDiff.dll
+D:\PDFComapre\HtmlDiff\bin\Debug\HtmlDiff.pdb
+D:\PDFComapre\HtmlDiff\obj\Debug\HtmlDiff.dll
+D:\PDFComapre\HtmlDiff\obj\Debug\HtmlDiff.pdb

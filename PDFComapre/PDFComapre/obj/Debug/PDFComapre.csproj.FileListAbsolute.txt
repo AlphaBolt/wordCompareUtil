@@ -1,0 +1,783 @@
+D:\Rahuk69827\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csprojResolveAssemblyReference.cache
+D:\Rahuk69827\PDFComapre\PDFComapre\bin\Debug\PDFComapre.exe.config
+D:\Rahuk69827\PDFComapre\PDFComapre\bin\Debug\PDFComapre.exe
+D:\Rahuk69827\PDFComapre\PDFComapre\bin\Debug\PDFComapre.pdb
+D:\Rahuk69827\PDFComapre\PDFComapre\bin\Debug\CompareUtility.dll
+D:\Rahuk69827\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Rahuk69827\PDFComapre\PDFComapre\bin\Debug\NPOI.dll
+D:\Rahuk69827\PDFComapre\PDFComapre\bin\Debug\NPOI.OOXML.dll
+D:\Rahuk69827\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Rahuk69827\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Rahuk69827\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.dll
+D:\Rahuk69827\PDFComapre\PDFComapre\bin\Debug\ImageDiff.dll
+D:\Rahuk69827\PDFComapre\PDFComapre\bin\Debug\CompareUtility.pdb
+D:\Rahuk69827\PDFComapre\PDFComapre\bin\Debug\NPOI.xml
+D:\Rahuk69827\PDFComapre\PDFComapre\bin\Debug\ImageDiff.pdb
+D:\Rahuk69827\PDFComapre\PDFComapre\obj\Debug\PDFComapre.exe
+D:\Rahuk69827\PDFComapre\PDFComapre\obj\Debug\PDFComapre.pdb
+D:\SVN-Millers\AUTOMATE_PLUS\PDFComapre\PDFComapre\bin\Debug\PDFComapre.exe.config
+D:\SVN-Millers\AUTOMATE_PLUS\PDFComapre\PDFComapre\obj\Debug\PDFComapre.exe
+D:\SVN-Millers\AUTOMATE_PLUS\PDFComapre\PDFComapre\obj\Debug\PDFComapre.pdb
+E:\PANKAJ.CHOWDHURY\PROJECTS\C&F\PDF-DIFF\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.config
+D:\PDFComapre\PDFComapre\bin\Debug\IgnoreCoordinatesXML.xml
+D:\PDFComapre\PDFComapre\bin\Debug\ComparisonReport\ComparisonReport.xls
+D:\PDFComapre\PDFComapre\bin\Debug\PDFCompare.pdb
+D:\PDFComapre\PDFComapre\bin\Debug\CompareUtility.dll
+D:\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.dll
+D:\PDFComapre\PDFComapre\bin\Debug\GhostscriptSharp.dll
+D:\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\PDFComapre\PDFComapre\bin\Debug\NPOI.dll
+D:\PDFComapre\PDFComapre\bin\Debug\NPOI.OOXML.dll
+D:\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXml4Net.dll
+D:\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\PDFComapre\PDFComapre\bin\Debug\ImageDiff.dll
+D:\PDFComapre\PDFComapre\bin\Debug\itextsharp.dll
+D:\PDFComapre\PDFComapre\bin\Debug\CompareUtility.pdb
+D:\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.xml
+D:\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\PDFComapre\PDFComapre\bin\Debug\NPOI.xml
+D:\PDFComapre\PDFComapre\bin\Debug\ImageDiff.pdb
+D:\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csprojResolveAssemblyReference.cache
+D:\PDFComapre\PDFComapre\obj\Debug\PDFCompare.comparePDF.resources
+D:\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.GenerateResource.Cache
+D:\PDFComapre\PDFComapre\obj\Debug\PDFCompare.pdb
+D:\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.config
+D:\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.manifest
+D:\PDFComapre\PDFComapre\bin\Debug\PDFCompare.application
+D:\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe
+D:\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe.manifest
+D:\PDFComapre\PDFComapre\obj\Debug\PDFCompare.application
+D:\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe
+D:\PDFComapre\PDFComapre\obj\Debug\PDFCompare.Properties.Resources.resources
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Debug\IgnoreCoordinatesXML.xml
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Debug\ComparisonReport\ComparisonReport.xls
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Debug\PDFCompare.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Debug\CompareUtility.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Debug\GhostscriptSharp.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Debug\NPOI.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Debug\NPOI.OOXML.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXml4Net.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXmlFormats.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Debug\ImageDiff.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Debug\itextsharp.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Debug\CompareUtility.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.xml
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.xml
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Debug\NPOI.xml
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Debug\ImageDiff.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csprojAssemblyReference.cache
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\obj\Debug\PDFCompare.comparePDF.resources
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\obj\Debug\PDFCompare.Properties.Resources.resources
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.GenerateResource.cache
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CoreCompileInputs.cache
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CopyComplete
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\obj\Debug\PDFCompare.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.config
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.manifest
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Debug\PDFCompare.application
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe.manifest
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\obj\Debug\PDFCompare.application
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\bin\Debug\IgnoreCoordinatesXML.xml
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\bin\Debug\ComparisonReport\ComparisonReport.xls
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.config
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.manifest
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\bin\Debug\PDFCompare.application
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\bin\Debug\PDFCompare.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\bin\Debug\CompareUtility.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\bin\Debug\GhostscriptSharp.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\bin\Debug\NPOI.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\bin\Debug\NPOI.OOXML.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXml4Net.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXmlFormats.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\bin\Debug\ImageDiff.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\bin\Debug\itextsharp.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\bin\Debug\CompareUtility.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.xml
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.xml
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\bin\Debug\NPOI.xml
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\bin\Debug\ImageDiff.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csprojAssemblyReference.cache
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\obj\Debug\PDFCompare.comparePDF.resources
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\obj\Debug\PDFCompare.Properties.Resources.resources
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.GenerateResource.cache
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CoreCompileInputs.cache
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe.manifest
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\obj\Debug\PDFCompare.application
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CopyComplete
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\PDFComapre\PDFComapre\obj\Debug\PDFCompare.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\bin\Debug\IgnoreCoordinatesXML.xml
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\bin\Debug\ComparisonReport\ComparisonReport.xls
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.config
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.manifest
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\bin\Debug\PDFCompare.application
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\bin\Debug\PDFCompare.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\bin\Debug\CompareUtility.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\bin\Debug\GhostscriptSharp.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\bin\Debug\NPOI.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\bin\Debug\NPOI.OOXML.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXml4Net.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXmlFormats.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\bin\Debug\ImageDiff.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\bin\Debug\itextsharp.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\bin\Debug\CompareUtility.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.xml
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.xml
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\bin\Debug\NPOI.xml
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\bin\Debug\ImageDiff.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csprojAssemblyReference.cache
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\obj\Debug\PDFCompare.comparePDF.resources
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\obj\Debug\PDFCompare.Properties.Resources.resources
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.GenerateResource.cache
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CoreCompileInputs.cache
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe.manifest
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\obj\Debug\PDFCompare.application
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CopyComplete
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\24-11-2018\PDFComapre\PDFComapre\obj\Debug\PDFCompare.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\IgnoreCoordinatesXML.xml
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\ComparisonReport\ComparisonReport.xls
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.config
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.manifest
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\PDFCompare.application
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\PDFCompare.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\CompareUtility.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\GhostscriptSharp.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\NPOI.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\NPOI.OOXML.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXml4Net.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXmlFormats.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\ImageDiff.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\itextsharp.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\CompareUtility.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.xml
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.xml
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\NPOI.xml
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\ImageDiff.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csprojAssemblyReference.cache
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\obj\Debug\PDFCompare.comparePDF.resources
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\obj\Debug\PDFCompare.Properties.Resources.resources
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.GenerateResource.cache
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CoreCompileInputs.cache
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe.manifest
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\obj\Debug\PDFCompare.application
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CopyComplete
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\obj\Debug\PDFCompare.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Licensing.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.xml
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\Code\27-11-2018\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\IgnoreCoordinatesXML.xml
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ComparisonReport\ComparisonReport.xls
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.config
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.manifest
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.application
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.pdb
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\CompareUtility.dll
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.dll
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\GhostscriptSharp.dll
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.dll
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.OOXML.dll
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ImageDiff.dll
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\itextsharp.dll
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\CompareUtility.pdb
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.xml
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.xml
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ImageDiff.pdb
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csprojResolveAssemblyReference.cache
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.comparePDF.resources
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.Properties.Resources.resources
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.GenerateResource.Cache
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe.manifest
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.application
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe
+C:\Users\Arvind.1.Kumar\Downloads\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.pdb
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.config
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.pdb
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\IgnoreCoordinatesXML.xml
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ComparisonReport\ComparisonReport.xls
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.manifest
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.application
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.pdb
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\CompareUtility.dll
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.dll
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\GhostscriptSharp.dll
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.dll
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.OOXML.dll
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ImageDiff.dll
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\itextsharp.dll
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\CompareUtility.pdb
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.xml
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.xml
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ImageDiff.pdb
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csprojResolveAssemblyReference.cache
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.comparePDF.resources
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.Properties.Resources.resources
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.GenerateResource.Cache
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe.manifest
+C:\Users\Arvind.1.Kumar\Downloads\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.application
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\IgnoreCoordinatesXML.xml
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ComparisonReport\ComparisonReport.xls
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.pdb
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\CompareUtility.dll
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.dll
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\GhostscriptSharp.dll
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.dll
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.OOXML.dll
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ImageDiff.dll
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\itextsharp.dll
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\CompareUtility.pdb
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.xml
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.xml
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ImageDiff.pdb
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csprojResolveAssemblyReference.cache
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.comparePDF.resources
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.Properties.Resources.resources
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.GenerateResource.Cache
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.pdb
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.config
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.manifest
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.application
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe.manifest
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.application
+C:\Users\Arvind.1.Kumar\Desktop\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\IgnoreCoordinatesXML.xml
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ComparisonReport\ComparisonReport.xls
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.config
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.manifest
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.application
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.pdb
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\CompareUtility.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\GhostscriptSharp.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.OOXML.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ImageDiff.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\itextsharp.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\CompareUtility.pdb
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.xml
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.xml
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ImageDiff.pdb
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csprojAssemblyReference.cache
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.comparePDF.resources
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.Properties.Resources.resources
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.GenerateResource.cache
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CoreCompileInputs.cache
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe.manifest
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.application
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CopyComplete
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_19_12_2018\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.pdb
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\IgnoreCoordinatesXML.xml
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ComparisonReport\ComparisonReport.xls
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.config
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.manifest
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.application
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\PDFCompare.pdb
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\CompareUtility.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\GhostscriptSharp.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.OOXML.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ImageDiff.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\itextsharp.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\CompareUtility.pdb
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.xml
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\NPOI.xml
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\ImageDiff.pdb
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csprojAssemblyReference.cache
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.comparePDF.resources
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.Properties.Resources.resources
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.GenerateResource.cache
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CoreCompileInputs.cache
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe.manifest
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.application
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CopyComplete
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\LatestCodePdfCompare_30_11_2018\27-11-2018 - Copy\27-11-2018 - Copy\PDFComapre\PDFComapre\obj\Debug\PDFCompare.pdb
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\IgnoreCoordinatesXML.xml
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\ComparisonReport\ComparisonReport.xls
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.config
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.manifest
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\PDFCompare.application
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\PDFCompare.pdb
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\CompareUtility.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\GhostscriptSharp.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\NPOI.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\NPOI.OOXML.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\ImageDiff.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\itextsharp.dll
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\CompareUtility.pdb
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.xml
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\NPOI.xml
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\ImageDiff.pdb
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csprojAssemblyReference.cache
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\obj\Debug\PDFCompare.comparePDF.resources
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\obj\Debug\PDFCompare.Properties.Resources.resources
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.GenerateResource.cache
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CoreCompileInputs.cache
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe.manifest
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\obj\Debug\PDFCompare.application
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CopyComplete
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe
+C:\Users\AKumar02\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\obj\Debug\PDFCompare.pdb
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\IgnoreCoordinatesXML.xml
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\ComparisonReport\ComparisonReport.xls
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.config
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.manifest
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\PDFCompare.application
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\PDFCompare.pdb
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\CompareUtility.dll
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.dll
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\GhostscriptSharp.dll
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\NPOI.dll
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\NPOI.OOXML.dll
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\ImageDiff.dll
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\itextsharp.dll
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\CompareUtility.pdb
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.xml
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\NPOI.xml
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\ImageDiff.pdb
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\obj\Debug\PDFCompare.comparePDF.resources
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\obj\Debug\PDFCompare.Properties.Resources.resources
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.GenerateResource.cache
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CoreCompileInputs.cache
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe.manifest
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\obj\Debug\PDFCompare.application
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CopyComplete
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe
+C:\Users\AKumar02\OneDrive - Coforge Limited\Desktop\LatestCodePdfCompare_10_10_2021\PDFComapre\PDFComapre\obj\Debug\PDFCompare.pdb
+C:\Users\Ayush.Mukherjee\Desktop\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe
+C:\Users\Ayush.Mukherjee\Desktop\PDFComapre\PDFComapre\obj\Debug\PDFCompare.pdb
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\IgnoreCoordinatesXML.xml
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ComparisonReport\ComparisonReport.xls
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.config
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.manifest
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.application
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.pdb
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\CompareUtility.dll
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.dll
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\GhostscriptSharp.dll
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.dll
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.OOXML.dll
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ImageDiff.dll
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\itextsharp.dll
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\CompareUtility.pdb
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.xml
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.xml
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ImageDiff.pdb
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.AssemblyReference.cache
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.comparePDF.resources
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.Properties.Resources.resources
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.GenerateResource.cache
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CoreCompileInputs.cache
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe.manifest
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.application
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.Up2Date
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe
+C:\Users\pocuser\Desktop\PDFCompare Project\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.pdb
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.AssemblyReference.cache
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.comparePDF.resources
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.Properties.Resources.resources
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.GenerateResource.cache
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CoreCompileInputs.cache
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.pdb
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\IgnoreCoordinatesXML.xml
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ComparisonReport\ComparisonReport.xls
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.config
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.manifest
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.application
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.pdb
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\CompareUtility.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\GhostscriptSharp.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.OOXML.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ImageDiff.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\itextsharp.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\CompareUtility.pdb
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.xml
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.xml
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ImageDiff.pdb
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe.manifest
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.application
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.Up2Date
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\MaterialWinforms.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\MetroFramework.Design.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\MetroFramework.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare\PDFComapre\PDFComapre\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\IgnoreCoordinatesXML.xml
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\ComparisonReport\ComparisonReport.xls
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.config
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.manifest
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\PDFCompare.application
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\PDFCompare.pdb
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\CompareUtility.dll
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.dll
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\GhostscriptSharp.dll
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\MaterialWinforms.dll
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\MetroFramework.Design.dll
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\MetroFramework.dll
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\NPOI.dll
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\NPOI.OOXML.dll
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\ImageDiff.dll
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\itextsharp.dll
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\CompareUtility.pdb
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.xml
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\NPOI.xml
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\ImageDiff.pdb
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\obj\Debug\PDFCompare.comparePDF.resources
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\obj\Debug\PDFCompare.Properties.Resources.resources
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.GenerateResource.cache
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe.manifest
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\obj\Debug\PDFCompare.application
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.Up2Date
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe
+C:\Users\KIIT\Desktop\c sharp\PDF Compare - different branch\PDFComapre\PDFComapre\obj\Debug\PDFCompare.pdb
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\IgnoreCoordinatesXML.xml
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ComparisonReport\ComparisonReport.xls
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.config
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.manifest
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.application
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.pdb
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\CompareUtility.dll
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.dll
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\GhostscriptSharp.dll
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\MaterialWinforms.dll
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\MetroFramework.Design.dll
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\MetroFramework.dll
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.dll
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.OOXML.dll
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ImageDiff.dll
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\itextsharp.dll
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\CompareUtility.pdb
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.xml
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.xml
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ImageDiff.pdb
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.AssemblyReference.cache
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.comparePDF.resources
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.Properties.Resources.resources
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.GenerateResource.cache
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CoreCompileInputs.cache
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe.manifest
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.application
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.Up2Date
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe
+C:\Users\pocuser\Desktop\dotnet\Coforge PDFCompare\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.pdb
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\IgnoreCoordinatesXML.xml
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ComparisonReport\ComparisonReport.xls
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.config
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.manifest
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.application
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.pdb
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\CompareUtility.dll
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.dll
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\GhostscriptSharp.dll
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\MaterialWinforms.dll
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\MetroFramework.Design.dll
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\MetroFramework.dll
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\MetroFramework.Fonts.dll
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.dll
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.OOXML.dll
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXml4Net.dll
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.dll
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Licensing.dll
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ImageDiff.dll
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\itextsharp.dll
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\CompareUtility.pdb
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.xml
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.xml
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.xml
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ImageDiff.pdb
+D:\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.AssemblyReference.cache
+D:\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.comparePDF.resources
+D:\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.Properties.Resources.resources
+D:\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.GenerateResource.cache
+D:\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CoreCompileInputs.cache
+D:\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe.manifest
+D:\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.application
+D:\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.Up2Date
+D:\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe
+D:\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.pdb
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\IgnoreCoordinatesXML.xml
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ComparisonReport\ComparisonReport.xls
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.config
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.manifest
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.application
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.pdb
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\CompareUtility.dll
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.dll
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\GhostscriptSharp.dll
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\MaterialWinforms.dll
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\MetroFramework.Design.dll
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\MetroFramework.dll
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\MetroFramework.Fonts.dll
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.dll
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.OOXML.dll
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXml4Net.dll
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.dll
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Licensing.dll
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ImageDiff.dll
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\itextsharp.dll
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\CompareUtility.pdb
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.xml
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.xml
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.xml
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ImageDiff.pdb
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.AssemblyReference.cache
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.comparePDF.resources
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.Properties.Resources.resources
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.GenerateResource.cache
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CoreCompileInputs.cache
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe.manifest
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.application
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.Up2Date
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe
+D:\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.pdb
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\IgnoreCoordinatesXML.xml
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ComparisonReport\ComparisonReport.xls
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.config
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.manifest
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.application
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\PDFCompare.pdb
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\CompareUtility.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\GhostscriptSharp.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\MaterialWinforms.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\MetroFramework.Design.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\MetroFramework.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.OOXML.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ImageDiff.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\itextsharp.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\CompareUtility.pdb
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.xml
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\NPOI.xml
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\ImageDiff.pdb
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.AssemblyReference.cache
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.Properties.Resources.resources
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.GenerateResource.cache
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CoreCompileInputs.cache
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe.manifest
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.application
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.Up2Date
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.pdb
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\IgnoreCoordinatesXML.xml
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\ComparisonReport\ComparisonReport.xls
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.config
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.manifest
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\PDFCompare.application
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\PDFCompare.pdb
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\CompareUtility.dll
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.dll
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\GhostscriptSharp.dll
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\MaterialWinforms.dll
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\MetroFramework.Design.dll
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\MetroFramework.dll
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\MetroFramework.Fonts.dll
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\NPOI.dll
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\NPOI.OOXML.dll
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXml4Net.dll
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.dll
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Licensing.dll
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\ImageDiff.dll
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\itextsharp.dll
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\CompareUtility.pdb
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\Ghostscript.NET.xml
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\NPOI.xml
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.xml
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\ImageDiff.pdb
+D:\PDFCompare - Git\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\PDFCompare - Git\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.AssemblyReference.cache
+D:\PDFCompare - Git\PDFComapre\PDFComapre\obj\Debug\PDFCompare.comparePDF.resources
+D:\PDFCompare - Git\PDFComapre\PDFComapre\obj\Debug\PDFCompare.Properties.Resources.resources
+D:\PDFCompare - Git\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.GenerateResource.cache
+D:\PDFCompare - Git\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CoreCompileInputs.cache
+D:\PDFCompare - Git\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe.manifest
+D:\PDFCompare - Git\PDFComapre\PDFComapre\obj\Debug\PDFCompare.application
+D:\PDFCompare - Git\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.Up2Date
+D:\PDFCompare - Git\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe
+D:\PDFCompare - Git\PDFComapre\PDFComapre\obj\Debug\PDFCompare.pdb
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\obj\Debug\PDFCompare.compareForm.resources
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.OfficeChart.Base.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\CompareUtility.dll.config
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Syncfusion.OfficeChart.Base.xml
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\libSkiaSharp.dylib
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\SkiaSharp.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\System.Buffers.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\System.Memory.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\SkiaSharp.pdb
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\SkiaSharp.xml
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\System.Buffers.xml
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\System.Memory.xml
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Xceed.Document.NET.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Xceed.Drawing.NET.dll
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Xceed.Words.NET.dll

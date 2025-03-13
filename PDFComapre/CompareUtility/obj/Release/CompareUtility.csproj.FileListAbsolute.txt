@@ -1,0 +1,22 @@
+D:\PDFComapre\CompareUtility\bin\Release\CompareUtility.dll
+D:\PDFComapre\CompareUtility\bin\Release\CompareUtility.pdb
+D:\PDFComapre\CompareUtility\bin\Release\Ghostscript.NET.dll
+D:\PDFComapre\CompareUtility\bin\Release\ImageDiff.dll
+D:\PDFComapre\CompareUtility\bin\Release\itextsharp.dll
+D:\PDFComapre\CompareUtility\bin\Release\ImageDiff.pdb
+D:\PDFComapre\CompareUtility\bin\Release\Ghostscript.NET.xml
+D:\PDFComapre\CompareUtility\obj\Release\CompareUtility.csprojResolveAssemblyReference.cache
+D:\PDFComapre\CompareUtility\obj\Release\CompareUtility.dll
+D:\PDFComapre\CompareUtility\obj\Release\CompareUtility.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\CompareUtility\bin\Release\CompareUtility.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\CompareUtility\bin\Release\CompareUtility.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\CompareUtility\bin\Release\Ghostscript.NET.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\CompareUtility\bin\Release\ImageDiff.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\CompareUtility\bin\Release\itextsharp.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\CompareUtility\bin\Release\ImageDiff.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\CompareUtility\bin\Release\Ghostscript.NET.xml
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\CompareUtility\obj\Release\CompareUtility.csprojAssemblyReference.cache
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\CompareUtility\obj\Release\CompareUtility.csproj.CoreCompileInputs.cache
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\CompareUtility\obj\Release\CompareUtility.csproj.CopyComplete
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\CompareUtility\obj\Release\CompareUtility.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\CompareUtility\obj\Release\CompareUtility.pdb

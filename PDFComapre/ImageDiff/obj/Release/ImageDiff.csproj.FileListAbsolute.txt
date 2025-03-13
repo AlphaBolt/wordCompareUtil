@@ -1,0 +1,10 @@
+D:\PDFComapre\ImageDiff\bin\Release\ImageDiff.dll
+D:\PDFComapre\ImageDiff\bin\Release\ImageDiff.pdb
+D:\PDFComapre\ImageDiff\obj\Release\ImageDiff.dll
+D:\PDFComapre\ImageDiff\obj\Release\ImageDiff.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\ImageDiff\bin\Release\ImageDiff.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\ImageDiff\bin\Release\ImageDiff.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\ImageDiff\obj\Release\ImageDiff.csprojAssemblyReference.cache
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\ImageDiff\obj\Release\ImageDiff.csproj.CoreCompileInputs.cache
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\ImageDiff\obj\Release\ImageDiff.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\ImageDiff\obj\Release\ImageDiff.pdb

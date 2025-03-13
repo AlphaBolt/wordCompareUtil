@@ -1,0 +1,4 @@
+D:\PDFComapre\ImageDiff\bin\x64\Debug\ImageDiff.dll
+D:\PDFComapre\ImageDiff\bin\x64\Debug\ImageDiff.pdb
+D:\PDFComapre\ImageDiff\obj\x64\Debug\ImageDiff.dll
+D:\PDFComapre\ImageDiff\obj\x64\Debug\ImageDiff.pdb

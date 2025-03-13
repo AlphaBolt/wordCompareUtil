@@ -1,0 +1,53 @@
+D:\PDFComapre\PDFComapre\bin\Release\IgnoreCoordinatesXML.xml
+D:\PDFComapre\PDFComapre\bin\Release\ComparisonReport\ComparisonReport.xls
+D:\PDFComapre\PDFComapre\bin\Release\PDFCompare.pdb
+D:\PDFComapre\PDFComapre\bin\Release\CompareUtility.dll
+D:\PDFComapre\PDFComapre\bin\Release\Ghostscript.NET.dll
+D:\PDFComapre\PDFComapre\bin\Release\GhostscriptSharp.dll
+D:\PDFComapre\PDFComapre\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\PDFComapre\PDFComapre\bin\Release\NPOI.dll
+D:\PDFComapre\PDFComapre\bin\Release\NPOI.OOXML.dll
+D:\PDFComapre\PDFComapre\bin\Release\NPOI.OpenXml4Net.dll
+D:\PDFComapre\PDFComapre\bin\Release\NPOI.OpenXmlFormats.dll
+D:\PDFComapre\PDFComapre\bin\Release\ImageDiff.dll
+D:\PDFComapre\PDFComapre\bin\Release\itextsharp.dll
+D:\PDFComapre\PDFComapre\bin\Release\CompareUtility.pdb
+D:\PDFComapre\PDFComapre\bin\Release\Ghostscript.NET.xml
+D:\PDFComapre\PDFComapre\bin\Release\ICSharpCode.SharpZipLib.xml
+D:\PDFComapre\PDFComapre\bin\Release\NPOI.xml
+D:\PDFComapre\PDFComapre\bin\Release\ImageDiff.pdb
+D:\PDFComapre\PDFComapre\obj\Release\PDFComapre.csprojResolveAssemblyReference.cache
+D:\PDFComapre\PDFComapre\obj\Release\PDFCompare.comparePDF.resources
+D:\PDFComapre\PDFComapre\obj\Release\PDFComapre.csproj.GenerateResource.Cache
+D:\PDFComapre\PDFComapre\obj\Release\PDFCompare.pdb
+D:\PDFComapre\PDFComapre\bin\Release\PDFCompare.dll.config
+D:\PDFComapre\PDFComapre\bin\Release\PDFCompare.dll
+D:\PDFComapre\PDFComapre\obj\Release\PDFCompare.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Release\IgnoreCoordinatesXML.xml
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Release\ComparisonReport\ComparisonReport.xls
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Release\PDFCompare.dll.config
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Release\PDFCompare.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Release\PDFCompare.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Release\CompareUtility.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Release\Ghostscript.NET.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Release\GhostscriptSharp.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Release\ICSharpCode.SharpZipLib.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Release\NPOI.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Release\NPOI.OOXML.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Release\NPOI.OpenXml4Net.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Release\NPOI.OpenXmlFormats.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Release\ImageDiff.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Release\itextsharp.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Release\CompareUtility.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Release\Ghostscript.NET.xml
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Release\ICSharpCode.SharpZipLib.xml
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Release\NPOI.xml
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\bin\Release\ImageDiff.pdb
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\obj\Release\PDFComapre.csprojAssemblyReference.cache
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\obj\Release\PDFCompare.comparePDF.resources
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\obj\Release\PDFCompare.Properties.Resources.resources
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\obj\Release\PDFComapre.csproj.GenerateResource.cache
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\obj\Release\PDFComapre.csproj.CoreCompileInputs.cache
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\obj\Release\PDFComapre.csproj.CopyComplete
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\obj\Release\PDFCompare.dll
+Q:\Automation & Performance\PDFComapre_Backup_14_11_2018\PDFComapre\PDFComapre\obj\Release\PDFCompare.pdb
