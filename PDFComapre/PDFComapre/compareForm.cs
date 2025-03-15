@@ -118,7 +118,7 @@ namespace PDFCompare
 							AllowUserToResizeRows = false,
 							AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill,
 							ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize,
-							Dock = DockStyle.Top,
+							//Dock = DockStyle.Top,
 							//Location = new Point(0, i * 300),
 							MinimumSize = new Size(30, 31),
 							Margin = new System.Windows.Forms.Padding(4, 5, 4, 5),
@@ -128,7 +128,7 @@ namespace PDFCompare
 							ShowCellToolTips = false,
 							ShowEditingIcon = false,
 							ShowRowErrors = false,
-
+							RowHeadersVisible = false,
 						};
 
 						resultContentPanel.Controls.Add(datagridview);
@@ -143,7 +143,7 @@ namespace PDFCompare
 						WebBrowser webResult = new WebBrowser
 						{
 							Name = $"webResult_{i}",
-							Dock = DockStyle.Top,
+							//Dock = DockStyle.Top,
 							//Location = new Point(0, i * 300),
 							MinimumSize = new Size(30, 31),
 							Margin = new System.Windows.Forms.Padding(4, 5, 4, 5),
@@ -737,7 +737,7 @@ namespace PDFCompare
 				}
 
 				//Check if the number of pages is the same
-				if (text_OR_imageBtn.Checked && !pDFComaprer.CheckNumberOfPagesSame(sourceFilePath, targetFilePath))
+				if (text_OR_imageBtn.Checked)
 				{
 					pagesSame = false;
 					multipleSourceComboBox[$"sourceComboBox_{i}"].ForeColor = Color.Red;
@@ -758,11 +758,11 @@ namespace PDFCompare
 				labelErrorMessage.Visible = true;
 				btnCompare.Enabled = false;
 			}
-			else if (!pagesSame)
-			{
-				MessageBox.Show("Source and target files must have the same number of pages!!!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-				//btnCompare.Enabled = false;
-			}
+			//else if (!pagesSame)
+			//{
+			//	MessageBox.Show("Source and target files must have the same number of pages!!!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+			//	//btnCompare.Enabled = false;
+			//}
 			else
 			{
 				allComboBoxesFilled = true;

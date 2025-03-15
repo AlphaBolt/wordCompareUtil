@@ -29,7 +29,7 @@ namespace PDFCompare
         /// </summary>
         private void InitializeComponent()
         {
-            System.Drawing.Drawing2D.GraphicsPath graphicsPath1 = new System.Drawing.Drawing2D.GraphicsPath();
+            System.Drawing.Drawing2D.GraphicsPath graphicsPath2 = new System.Drawing.Drawing2D.GraphicsPath();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(compareForm));
             this.materialTabControl1 = new MaterialWinforms.Controls.MaterialTabControl();
             this.selectFilesTabPage = new MaterialWinforms.Controls.MaterialTabPage();
@@ -89,7 +89,7 @@ namespace PDFCompare
             this.materialTabControl1.Location = new System.Drawing.Point(0, 35);
             this.materialTabControl1.MouseState = MaterialWinforms.MouseState.HOVER;
             this.materialTabControl1.Name = "materialTabControl1";
-            this.materialTabControl1.SelectedIndex = 1;
+            this.materialTabControl1.SelectedIndex = 2;
             this.materialTabControl1.Size = new System.Drawing.Size(1260, 618);
             this.materialTabControl1.TabIndex = 5;
             this.materialTabControl1.TabsAreClosable = true;
@@ -421,8 +421,8 @@ namespace PDFCompare
             this.materialTabSelector1.MaxTabWidht = -1;
             this.materialTabSelector1.MouseState = MaterialWinforms.MouseState.HOVER;
             this.materialTabSelector1.Name = "materialTabSelector1";
-            graphicsPath1.FillMode = System.Drawing.Drawing2D.FillMode.Alternate;
-            this.materialTabSelector1.ShadowBorder = graphicsPath1;
+            graphicsPath2.FillMode = System.Drawing.Drawing2D.FillMode.Alternate;
+            this.materialTabSelector1.ShadowBorder = graphicsPath2;
             this.materialTabSelector1.Size = new System.Drawing.Size(1260, 35);
             this.materialTabSelector1.TabIndex = 0;
             this.materialTabSelector1.TabPadding = 24;
@@ -507,7 +507,7 @@ namespace PDFCompare
             this.backgroundWorker1.ProgressChanged += new System.ComponentModel.ProgressChangedEventHandler(this.background_ProgressChanged);
             this.backgroundWorker1.RunWorkerCompleted += new System.ComponentModel.RunWorkerCompletedEventHandler(this.background_RunWorkerCompleted);
             // 
-            // comparePDF
+            // compareForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -518,7 +518,7 @@ namespace PDFCompare
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.materialTabSelector1);
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.Name = "comparePDF";
+            this.Name = "compareForm";
             this.Text = "Forms Compare Tool";
             this.materialTabControl1.ResumeLayout(false);
             this.selectFilesTabPage.ResumeLayout(false);

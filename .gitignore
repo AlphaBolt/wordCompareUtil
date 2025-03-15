@@ -33,3 +33,5 @@ PDFComapre/!**/[Pp]ackages/repositories.config
 # NuGet v3's project.json files produces more ignorable files
 PDFComapre/*.nuget.props
 PDFComapre/*.nuget.targets
+packages/**/*
+PDFComapre/packages/**/*

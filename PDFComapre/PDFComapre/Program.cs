@@ -231,21 +231,29 @@ namespace PDFCompare
 
             try
             {
+                string extension1 = Path.GetExtension(SourceFilePath).ToLower();
+                string extension2 = Path.GetExtension(TargetFilePath).ToLower();
+
                 if (boolImageCompare)
                 {
                     var filePath = Path.Combine(Directory.GetCurrentDirectory(), "IgnoreCoordinatesXML.xml");
-                    result = Common.ComaprePDF(SourceFilePath, TargetFilePath, filePath, ComparisonReportFile, sourcePageRangeList, targetPageRangeList);
-                    
-                        result.Message = result.Result + "|" + result.ComparisonMessage + "|" + Convert.ToString(result.IsPass);
-                        Report.Add(result);            
+
+                    if (extension1 == ".pdf" && extension2 == ".pdf")
+                    {
+                        result = Common.ComaprePDF(SourceFilePath, TargetFilePath, filePath, ComparisonReportFile, sourcePageRangeList, targetPageRangeList);
+                    }
+                    else if ((extension1 == ".docx" || extension1 == ".doc") && (extension2 == ".docx" || extension2 == ".doc"))
+                    {
+                        result = Common.CompareWord(SourceFilePath, TargetFilePath, filePath, ComparisonReportFile, sourcePageRangeList, targetPageRangeList);
+                    }
+
+                    result.Message = result.Result + "|" + result.ComparisonMessage + "|" + Convert.ToString(result.IsPass);
+                    Report.Add(result);            
                     
                 }
+
                 else
                 {
-                    //result = Common.ComaprePDFText(SourceFilePath, TargetFilePath, sourcePageRangeList, targetPageRangeList, ComparisonReportFile);
-                    string extension1 = Path.GetExtension(SourceFilePath).ToLower();
-                    string extension2 = Path.GetExtension(TargetFilePath).ToLower();
-
                     if (extension1 == ".pdf" && extension2 == ".pdf")
                     {
                         result = Common.ComaprePDFText(SourceFilePath, TargetFilePath, sourcePageRangeList, targetPageRangeList, ComparisonReportFile);

@@ -309,3 +309,40 @@ C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\CompareUt
 C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\CompareUtility\bin\Debug\Xceed.Document.NET.dll
 C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\CompareUtility\bin\Debug\Xceed.Drawing.NET.dll
 C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\CompareUtility\bin\Debug\Xceed.Words.NET.dll
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\CompareUtility.dll.config
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\CompareUtility.dll
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\CompareUtility.pdb
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\Ghostscript.NET.dll
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\GhostscriptSharp.dll
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\HarfBuzzSharp.dll
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\ImageDiff.dll
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\itextsharp.dll
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\Spire.Doc.dll
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\Syncfusion.OfficeChart.Base.dll
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\System.Buffers.dll
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\System.Memory.dll
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\Xceed.Document.NET.dll
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\Xceed.Drawing.NET.dll
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\Xceed.Words.NET.dll
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\ImageDiff.pdb
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\ImageDiff.dll.config
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\Ghostscript.NET.xml
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\Spire.Doc.xml
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\Syncfusion.OfficeChart.Base.xml
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\System.Buffers.xml
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\System.Memory.xml
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\obj\Debug\CompareUtility.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\obj\Debug\CompareUtility.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\obj\Debug\CompareU.2FF218EA.Up2Date
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\obj\Debug\CompareUtility.dll
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\obj\Debug\CompareUtility.pdb
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\HarfBuzzSharp.pdb
