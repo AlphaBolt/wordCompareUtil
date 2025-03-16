@@ -781,7 +781,11 @@ C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapr
 C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Xceed.Document.NET.dll
 C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Xceed.Drawing.NET.dll
 C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\PDFComapre\bin\Debug\Xceed.Words.NET.dll
-C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\bin\Debug\Spire.Doc.dll
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\obj\Debug\PDFCompare.compareForm.resources
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\obj\Debug\PDFCompare.Properties.Resources.resources
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.GenerateResource.cache
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CoreCompileInputs.cache
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\bin\Debug\IgnoreCoordinatesXML.xml
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\bin\Debug\ComparisonReport\ComparisonReport.xls
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\bin\Debug\PDFCompare.exe.config
@@ -802,6 +806,7 @@ C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComap
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\bin\Debug\NPOI.OOXML.dll
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXml4Net.dll
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\bin\Debug\Spire.Doc.dll
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Compression.Base.dll
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Licensing.dll
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\bin\Debug\Syncfusion.OfficeChart.Base.dll
@@ -831,11 +836,6 @@ C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComap
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\bin\Debug\ImageDiff.pdb
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\bin\Debug\ImageDiff.dll.config
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\bin\Debug\Syncfusion.Pdf.Base.xml
-C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.AssemblyReference.cache
-C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\obj\Debug\PDFCompare.compareForm.resources
-C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\obj\Debug\PDFCompare.Properties.Resources.resources
-C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.GenerateResource.cache
-C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.CoreCompileInputs.cache
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\obj\Debug\PDFCompare.exe.manifest
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\obj\Debug\PDFCompare.application
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\PDFComapre\obj\Debug\PDFComapre.csproj.Up2Date

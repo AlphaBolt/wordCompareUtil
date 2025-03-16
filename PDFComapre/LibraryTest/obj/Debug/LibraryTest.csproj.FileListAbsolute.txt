@@ -243,8 +243,6 @@ C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTe
 C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\bin\Debug\Xceed.Words.NET.dll
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\obj\Debug\LibraryTest.csproj.AssemblyReference.cache
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\obj\Debug\LibraryTest.csproj.CoreCompileInputs.cache
-C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\obj\Debug\LibraryTest.dll
-C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\obj\Debug\LibraryTest.pdb
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\bin\Debug\IgnoreCoordinatesXML.xml
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\bin\Debug\ComparisonReport\ComparisonReport.xls
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\bin\Debug\LibraryTest.dll.config
@@ -279,6 +277,7 @@ C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryT
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\bin\Debug\CompareUtility.dll.config
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\bin\Debug\PDFCompare.pdb
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\bin\Debug\PDFCompare.exe.config
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\bin\Debug\HarfBuzzSharp.pdb
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\bin\Debug\Spire.Doc.xml
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\bin\Debug\Syncfusion.Compression.Base.xml
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\bin\Debug\Syncfusion.OfficeChart.Base.xml
@@ -293,4 +292,5 @@ C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryT
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\bin\Debug\NPOI.xml
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\bin\Debug\ICSharpCode.SharpZipLib.xml
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\obj\Debug\LibraryT.314A797A.Up2Date
-C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\obj\Debug\LibraryTest.dll
+C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\obj\Debug\LibraryTest.pdb

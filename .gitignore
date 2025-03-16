@@ -1,8 +1,5 @@
 # Ignore all .vs folders
 .vs/
 
-# Ignore all bin files
-bin/
-
 # NuGet Packages
 packages/
