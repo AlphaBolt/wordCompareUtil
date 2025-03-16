@@ -4,19 +4,18 @@ using System.Drawing;
 using System.Drawing.Imaging;
 using System.IO;
 using System.Linq;
-using System.Reflection;
 using System.Xml;
 using ImageDiff;
 using Spire.Doc.Documents;
 using Spire.Doc;
-using Xceed.Words.NET;
 using System.Drawing.Drawing2D;
-
+using Microsoft.Office.Interop.Word;
+using System.Runtime.InteropServices;
 
 
 namespace CompareUtility
 {
-    public class WordComparer
+    public class WordComparer : PDFComparer
     {
         private string ReportDirectoryPath = string.Empty;
         private string ReportDirectoryName = "Reports";
@@ -32,7 +31,146 @@ namespace CompareUtility
             report = new ComparisonReport();
         }
 
-        public ComparisonReport CompareTwoWordDocs(string SourceDoc, string TargetDoc, List<int> sourcePageRange, List<int> targetPageRange, string reportResult = "")
+        // Using DocX for text comparison
+        //private ComparisonReport CompareTwoWordDocs(string SourceDoc, string TargetDoc, List<int> sourcePageRange, List<int> targetPageRange, string reportResult = "")
+        //{
+        //    string FirstFile = string.Empty, SecondFile = string.Empty;
+        //    string textSource = string.Empty;
+        //    string textTarget = string.Empty;
+
+        //    string differencesFolderPath = string.Empty,
+        //           tempFolder1 = string.Empty,
+        //           tempFolder2 = string.Empty,
+        //           TempFolderPath = string.Empty,
+        //           reportFolderpath = string.Empty;
+
+        //    ComparisonReport report = new ComparisonReport();
+        //    report.ImageCompare = false;
+        //    ReportDirectoryPath = Directory.GetParent(reportResult).FullName;
+
+        //    if (File.Exists(SourceDoc) && File.Exists(TargetDoc))
+        //    {
+        //        // Using Xceed.Words.NET (DocX)
+        //        using (DocX sourceDoc = DocX.Load(SourceDoc))
+        //        {
+        //            var paragraphs = sourceDoc.Paragraphs;
+        //            // Extract text from source document
+        //            textSource = string.Join("\n", paragraphs.Select(p => p.Text));
+
+        //            if (sourcePageRange != null && sourcePageRange.Count > 0)
+        //            {
+        //                textSource = "";
+        //                foreach (int paraIdx in sourcePageRange)
+        //                {
+        //                    if (paraIdx >= 0 && paraIdx < paragraphs.Count)
+        //                    {
+        //                        textSource += paragraphs[paraIdx].Text + "\n";
+        //                    }
+        //                }
+        //            }
+        //        }
+
+        //        using (DocX targetDoc = DocX.Load(TargetDoc))
+        //        {
+        //            var paragraphs = targetDoc.Paragraphs;
+        //            // Extract text from target document
+        //            textTarget = string.Join("\n", paragraphs.Select(p => p.Text));
+
+        //            if (targetPageRange != null && targetPageRange.Count > 0)
+        //            {
+        //                textTarget = "";
+        //                foreach (int paraIdx in targetPageRange)
+        //                {
+        //                    if (paraIdx >= 0 && paraIdx < paragraphs.Count)
+        //                    {
+        //                        textTarget += paragraphs[paraIdx].Text + "\n";
+        //                    }
+        //                }
+        //            }
+        //        }
+
+        //        // For line-by-line comparison
+        //        FirstFile = textSource;
+        //        SecondFile = textTarget;
+        //    }
+        //    else
+        //    {
+        //        report.FilePath1 = SourceDoc;
+        //        report.FilePath2 = TargetDoc;
+        //        report.Indicator = true;
+        //        report.Result = "Fail";
+        //        report.ComparisonMessage = "Files do not exist.";
+        //        return report;
+        //    }
+
+        //    List<string> File1diff;
+        //    List<string> File2diff;
+
+        //    IEnumerable<string> file1 = FirstFile.Trim().Split('\r', '\n');
+        //    IEnumerable<string> file2 = SecondFile.Trim().Split('\r', '\n');
+
+        //    File1diff = file1.Where(x => x.Trim() != "").ToList();
+        //    File2diff = file2.Where(x => x.Trim() != "").ToList();
+
+        //    reportFolderpath = CreateReportFolder(ReportDirectoryPath, ReportDirectoryName);
+        //    DeleteTempWordImageFolders(reportFolderpath);
+
+        //    differencesFolderPath = CreateFolder(reportFolderpath, DifferencesDirectoryName);
+        //    TempFolderPath = CreateFolder(reportFolderpath, TemporaryDirectoryName);
+
+        //    tempFolder1 = CreateFolder(TempFolderPath, "TempDir1");
+        //    tempFolder2 = CreateFolder(TempFolderPath, "TempDir2");
+
+        //    if (File1diff.Count() > File2diff.Count())
+        //    {
+        //        report.FilePath1 = SourceDoc;
+        //        report.FilePath2 = TargetDoc;
+        //        report.Indicator = false;
+        //        report.Result = "Fail";
+        //        report.IsPass = false;
+        //        report.ComparisonMessage = "Source file has more lines than Target File.";
+        //    }
+        //    else if (File1diff.Count() < File2diff.Count())
+        //    {
+        //        report.FilePath1 = SourceDoc;
+        //        report.FilePath2 = TargetDoc;
+        //        report.Indicator = false;
+        //        report.Result = "Fail";
+        //        report.IsPass = false;
+        //        report.ComparisonMessage = "Target File has more lines than Source File.";
+        //    }
+
+        //    TextDiff objTextDiff = new TextDiff();
+        //    string res = objTextDiff.CompareText(File1diff, File2diff, SourceDoc, TargetDoc);
+        //    report.CompareText = res;
+
+        //    if (res.IndexOf("<font color='red'>") >= 0)
+        //    {
+        //        report.FilePath1 = SourceDoc;
+        //        report.FilePath2 = TargetDoc;
+        //        report.Indicator = false;
+        //        report.Result = "Fail";
+        //        report.IsPass = false;
+        //        report.ComparisonMessage = "There is a difference in files";
+        //    }
+        //    else
+        //    {
+        //        report.FilePath1 = SourceDoc;
+        //        report.FilePath2 = TargetDoc;
+        //        report.Indicator = true;
+        //        report.Result = "Pass";
+        //        report.IsPass = true;
+        //        report.ComparisonMessage = "Both files are same";
+        //    }
+
+        //    System.IO.File.Copy(SourceDoc, tempFolder1 + "\\source.docx", true);
+        //    System.IO.File.Copy(TargetDoc, tempFolder2 + "\\target.docx", true);
+        //    saveData(res, differencesFolderPath + "\\result.html");
+
+        //    return report;
+        //}
+
+        public ComparisonReport CompareTwoWordDocs(string SourceDocFilePath, string TargetDocFilePath, List<int> sourcePageRange, List<int> targetPageRange, string reportResult = "")
         {
             string FirstFile = string.Empty, SecondFile = string.Empty;
             string textSource = string.Empty;
@@ -44,75 +182,58 @@ namespace CompareUtility
                    TempFolderPath = string.Empty,
                    reportFolderpath = string.Empty;
 
-            ComparisonReport report = new ComparisonReport(); // Assuming this is your report class
+            ComparisonReport report = new ComparisonReport();
             report.ImageCompare = false;
             ReportDirectoryPath = Directory.GetParent(reportResult).FullName;
 
-            if (File.Exists(SourceDoc) && File.Exists(TargetDoc))
+            // Check if files exist and extract text
+            if (File.Exists(SourceDocFilePath) && File.Exists(TargetDocFilePath))
             {
-                // Using Xceed.Words.NET (DocX)
-                using (DocX sourceDoc = DocX.Load(SourceDoc))
+                Application wordApp = new Application { Visible = false };
+                Microsoft.Office.Interop.Word.Document sourceDoc = null;
+                Microsoft.Office.Interop.Word.Document targetDoc = null;
+                try
                 {
-                    var paragraphs = sourceDoc.Paragraphs;
-                    // Extract text from source document
-                    textSource = string.Join("\n", paragraphs.Select(p => p.Text));
+                    sourceDoc = wordApp.Documents.Open(SourceDocFilePath);
+                    textSource = ExtractText(sourceDoc, sourcePageRange);
 
-                    // If specific "page" ranges are specified, treat them as paragraph indices
-                    if (sourcePageRange != null && sourcePageRange.Count > 0)
+                    targetDoc = wordApp.Documents.Open(TargetDocFilePath);
+                    textTarget = ExtractText(targetDoc, targetPageRange);
+                }
+                finally
+                {
+                    if (sourceDoc != null)
                     {
-                        textSource = "";
-                        foreach (int paraIdx in sourcePageRange)
-                        {
-                            if (paraIdx >= 0 && paraIdx < paragraphs.Count)
-                            {
-                                textSource += paragraphs[paraIdx].Text + "\n";
-                            }
-                        }
+                        sourceDoc.Close();
+                        Marshal.ReleaseComObject(sourceDoc);
+                    }
+                    if (targetDoc != null)
+                    {
+                        targetDoc.Close();
+                        Marshal.ReleaseComObject(targetDoc);
+                    }
+                    if (wordApp != null)
+                    {
+                        wordApp.Quit();
+                        Marshal.ReleaseComObject(wordApp);
                     }
                 }
-
-                using (DocX targetDoc = DocX.Load(TargetDoc))
-                {
-                    var paragraphs = targetDoc.Paragraphs;
-                    // Extract text from target document
-                    textTarget = string.Join("\n", paragraphs.Select(p => p.Text));
-
-                    if (targetPageRange != null && targetPageRange.Count > 0)
-                    {
-                        textTarget = "";
-                        foreach (int paraIdx in targetPageRange)
-                        {
-                            if (paraIdx >= 0 && paraIdx < paragraphs.Count)
-                            {
-                                textTarget += paragraphs[paraIdx].Text + "\n";
-                            }
-                        }
-                    }
-                }
-
-                // For line-by-line comparison
-                FirstFile = textSource;
-                SecondFile = textTarget;
             }
             else
             {
-                report.FilePath1 = SourceDoc;
-                report.FilePath2 = TargetDoc;
+                report.FilePath1 = SourceDocFilePath;
+                report.FilePath2 = TargetDocFilePath;
                 report.Indicator = true;
                 report.Result = "Fail";
                 report.ComparisonMessage = "Files do not exist.";
                 return report;
             }
 
-            List<string> File1diff;
-            List<string> File2diff;
+            // Split text into lines (paragraphs in Word are separated by \r)
+            List<string> File1diff = textSource.Split(new char[] { '\r' }, StringSplitOptions.RemoveEmptyEntries).ToList();
+            List<string> File2diff = textTarget.Split(new char[] { '\r' }, StringSplitOptions.RemoveEmptyEntries).ToList();
 
-            IEnumerable<string> file1 = FirstFile.Trim().Split('\r', '\n');
-            IEnumerable<string> file2 = SecondFile.Trim().Split('\r', '\n');
-
-            File1diff = file1.Where(x => x.Trim() != "").ToList();
-            File2diff = file2.Where(x => x.Trim() != "").ToList();
-
+            // Create report directories
             reportFolderpath = CreateReportFolder(ReportDirectoryPath, ReportDirectoryName);
             DeleteTempWordImageFolders(reportFolderpath);
 
@@ -122,33 +243,35 @@ namespace CompareUtility
             tempFolder1 = CreateFolder(TempFolderPath, "TempDir1");
             tempFolder2 = CreateFolder(TempFolderPath, "TempDir2");
 
-            if (File1diff.Count() > File2diff.Count())
+            // Compare line counts
+            if (File1diff.Count > File2diff.Count)
             {
-                report.FilePath1 = SourceDoc;
-                report.FilePath2 = TargetDoc;
+                report.FilePath1 = SourceDocFilePath;
+                report.FilePath2 = TargetDocFilePath;
                 report.Indicator = false;
                 report.Result = "Fail";
                 report.IsPass = false;
                 report.ComparisonMessage = "Source file has more lines than Target File.";
             }
-            else if (File1diff.Count() < File2diff.Count())
+            else if (File1diff.Count < File2diff.Count)
             {
-                report.FilePath1 = SourceDoc;
-                report.FilePath2 = TargetDoc;
+                report.FilePath1 = SourceDocFilePath;
+                report.FilePath2 = TargetDocFilePath;
                 report.Indicator = false;
                 report.Result = "Fail";
                 report.IsPass = false;
                 report.ComparisonMessage = "Target File has more lines than Source File.";
             }
 
-            TextDiff objTextDiff = new TextDiff(); // Assuming this is your custom diff class
-            string res = objTextDiff.CompareText(File1diff, File2diff, SourceDoc, TargetDoc);
+            // Compare text and generate report
+            TextDiff objTextDiff = new TextDiff();
+            string res = objTextDiff.CompareText(File1diff, File2diff, SourceDocFilePath, TargetDocFilePath);
             report.CompareText = res;
 
-            if (res.IndexOf("<font color='red'>") >= 0)
+            if (res.Contains("<font color='red'>"))
             {
-                report.FilePath1 = SourceDoc;
-                report.FilePath2 = TargetDoc;
+                report.FilePath1 = SourceDocFilePath;
+                report.FilePath2 = TargetDocFilePath;
                 report.Indicator = false;
                 report.Result = "Fail";
                 report.IsPass = false;
@@ -156,26 +279,52 @@ namespace CompareUtility
             }
             else
             {
-                report.FilePath1 = SourceDoc;
-                report.FilePath2 = TargetDoc;
+                report.FilePath1 = SourceDocFilePath;
+                report.FilePath2 = TargetDocFilePath;
                 report.Indicator = true;
                 report.Result = "Pass";
                 report.IsPass = true;
                 report.ComparisonMessage = "Both files are same";
             }
 
-            System.IO.File.Copy(SourceDoc, tempFolder1 + "\\source.docx", true);
-            System.IO.File.Copy(TargetDoc, tempFolder2 + "\\target.docx", true);
-            saveData(res, differencesFolderPath + "\\result.html");
+            // Copy original files to temp folders with original extensions
+            string sourceExt = Path.GetExtension(SourceDocFilePath);
+            string targetExt = Path.GetExtension(TargetDocFilePath);
+            File.Copy(SourceDocFilePath, Path.Combine(tempFolder1, "source" + sourceExt), true);
+            File.Copy(TargetDocFilePath, Path.Combine(tempFolder2, "target" + targetExt), true);
+
+            // Save comparison result
+            saveData(res, Path.Combine(differencesFolderPath, "result.html"));
 
             return report;
+        }
+
+        private string ExtractText(Microsoft.Office.Interop.Word.Document doc, List<int> paragraphRange)
+        {
+            string text = "";
+            if (paragraphRange != null && paragraphRange.Count > 0)
+            {
+                var paragraphs = doc.Paragraphs;
+                foreach (int paraIdx in paragraphRange)
+                {
+                    if (paraIdx >= 0 && paraIdx < paragraphs.Count)
+                    {
+                        // Adjust for 1-based indexing in Interop
+                        text += paragraphs[paraIdx + 1].Range.Text.Replace('\v', '\n') + "\n";
+                    }
+                }
+            }
+            else
+            {
+                text = doc.Content.Text.Replace('\v', '\n');
+            }
+            return text;
         }
 
         private string CreateFolder(string reportFolder, string val)
         {
             return Directory.CreateDirectory(reportFolder + "\\" + val).FullName;
         }
-
 
         private string CreateReportFolder(string reportDirectoryPath, string reportDirectoryName)
         {
@@ -229,7 +378,7 @@ namespace CompareUtility
             }
         }
 
-        public void saveData(string data, string path)
+        private void saveData(string data, string path)
         {
             StreamWriter stream_writer = new StreamWriter(path);
             stream_writer.Write(data);
@@ -237,6 +386,8 @@ namespace CompareUtility
             stream_writer.Close();
 
         }
+
+
 
 
         //******************* Image Comparison *******************************
@@ -293,7 +444,6 @@ namespace CompareUtility
                 }
 
                 reportFolderpath = CreateReportFolder(ReportDirectoryPath, ReportDirectoryName);
-                //DeleteTempWordImageFolders(reportFolderpath);
                 differencesFolderPath = CreateFolder(reportFolderpath, DifferencesDirectoryName);
                 TempFolderPath = CreateFolder(reportFolderpath, TemporaryDirectoryName);
                 tempFolder1 = CreateFolder(TempFolderPath, "TempDir1");
@@ -443,9 +593,11 @@ namespace CompareUtility
 
         }
 
+
+        // Using Spire.Doc for counting No of pages - Change this to use another library
         private int NumberOfPages(string FilePath)
         {
-            Document doc = new Document();
+            Spire.Doc.Document doc = new Spire.Doc.Document();
             doc.LoadFromFile(FilePath);
             return doc.PageCount;
         }
@@ -491,9 +643,11 @@ namespace CompareUtility
             }
         }
 
+
+        // Using Spire.Doc for converting Word to Image - Make changes here to use another library
         private void ConvertWordToImages(string wordFilePath, string dirPath, List<int> sourcePageRange = null)
         {
-            Document doc = new Document();
+            Spire.Doc.Document doc = new Spire.Doc.Document();
             doc.LoadFromFile(wordFilePath);
 
             //Convert the whole document into individual images 
@@ -565,7 +719,7 @@ namespace CompareUtility
                     }
                 }
             }
-            else //====== End Added By Reetesh
+            else
             {
                 img.Save(pageFilePath, ImageFormat.Jpeg);
                 img.Dispose();

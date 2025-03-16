@@ -327,9 +327,6 @@ C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareU
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\System.Memory.dll
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\System.Numerics.Vectors.dll
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\Xceed.Document.NET.dll
-C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\Xceed.Drawing.NET.dll
-C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\Xceed.Words.NET.dll
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\ImageDiff.pdb
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\ImageDiff.dll.config
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\CompareUtility\bin\Debug\Ghostscript.NET.xml

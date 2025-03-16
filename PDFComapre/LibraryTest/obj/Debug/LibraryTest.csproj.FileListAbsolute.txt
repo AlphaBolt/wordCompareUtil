@@ -259,9 +259,6 @@ C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryT
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\bin\Debug\System.Memory.dll
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\bin\Debug\System.Numerics.Vectors.dll
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\bin\Debug\Xceed.Document.NET.dll
-C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\bin\Debug\Xceed.Drawing.NET.dll
-C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\bin\Debug\Xceed.Words.NET.dll
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\bin\Debug\Ghostscript.NET.dll
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\bin\Debug\ImageDiff.dll
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\bin\Debug\Syncfusion.Pdf.Base.dll

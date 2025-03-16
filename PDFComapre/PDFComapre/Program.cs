@@ -286,7 +286,7 @@ namespace PDFCompare
             }
             catch (Exception ex)
             {
-                 result.Message= ex.ToString();
+                result.Message= ex.ToString();
                 return result;
             }
         }

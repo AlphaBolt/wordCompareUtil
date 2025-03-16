@@ -103,7 +103,7 @@ namespace CompareUtility
 
                 _rasterizer = new GhostscriptRasterizer();
                 reportFolderpath = CreateReportFolder(ReportDirectoryPath, ReportDirectoryName);
-                DeleteTempPDFImageFolders(reportFolderpath);
+                //DeleteTempPDFImageFolders(reportFolderpath);
                 differencesFolderPath = CreateFolder(reportFolderpath, DifferencesDirectoryName);
                 TempFolderPath = CreateFolder(reportFolderpath, TemporaryDirectoryName);
                 tempFolder1 = CreateFolder(TempFolderPath, "TempDir1");

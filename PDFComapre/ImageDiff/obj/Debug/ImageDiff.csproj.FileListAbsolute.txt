@@ -132,9 +132,6 @@ C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\ImageDif
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\ImageDiff\bin\Debug\System.Memory.dll
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\ImageDiff\bin\Debug\System.Numerics.Vectors.dll
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\ImageDiff\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\ImageDiff\bin\Debug\Xceed.Document.NET.dll
-C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\ImageDiff\bin\Debug\Xceed.Drawing.NET.dll
-C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\ImageDiff\bin\Debug\Xceed.Words.NET.dll
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\ImageDiff\bin\Debug\HarfBuzzSharp.pdb
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\ImageDiff\bin\Debug\Spire.Doc.xml
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\ImageDiff\bin\Debug\Syncfusion.Compression.Base.xml

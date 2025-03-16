@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CompareUtility.dll" size="37888">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CompareUtility.dll" size="40960">
       <assemblyIdentity name="CompareUtility" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>EAtqmBnnScgVMyLJZTzIlYYXYQLI3rV8e39SW0NZ1lM=</dsig:DigestValue>
+        <dsig:DigestValue>tqGJqEifSH3pYyos+VystxjpZMC1qLl+5VJ/YLENaHQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -109,7 +109,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>7BWac01vRrfRhG1NWsuMAvsSzUCfi5vJRmtjFdVWWBM=</dsig:DigestValue>
+        <dsig:DigestValue>fI5AuJCq5+Fc7PcW8A7tfNYUB+inyI6ZedqT2I1PP2w=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -229,7 +229,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>MuSoQsDVfARPCQMo+TrlOyUO35P+Fjg/pmgmquCZQh4=</dsig:DigestValue>
+        <dsig:DigestValue>JbE8efZnJEMjGxVE46NJo2fbl7+LAcWt+oQRiRqJ+yE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -338,42 +338,6 @@
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
         <dsig:DigestValue>ZkCfZwMVr+hhDxek06HuUtcrakbFRM7JdUToOF+QrXQ=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Xceed.Document.NET.dll" size="428544">
-      <assemblyIdentity name="Xceed.Document.NET" version="4.0.0.0" publicKeyToken="3E4669D2F30244F4" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ZEt28TGdNoBdGwcIMvsYc8hp9/UBde0lfUxXeoYebjA=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Xceed.Drawing.NET.dll" size="26624">
-      <assemblyIdentity name="Xceed.Drawing.NET" version="1.0.0.0" publicKeyToken="3E4669D2F30244F4" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>sftTcDAroVyaZjMIvlSwUHPRBVXijMBISJyEEV4yUX4=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Xceed.Words.NET.dll" size="39424">
-      <assemblyIdentity name="Xceed.Words.NET" version="4.0.0.0" publicKeyToken="3E4669D2F30244F4" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Ph0/ZPgE9JyokzDqqbjAJBewM1KkWOOYC7jQlJ4lUks=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

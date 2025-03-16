@@ -7,14 +7,14 @@
     <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="PDFCompare.exe.manifest" size="22339">
+    <dependentAssembly dependencyType="install" codebase="PDFCompare.exe.manifest" size="20282">
       <assemblyIdentity name="PDFCompare.exe" version="1.0.0.8" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>nZco4N4jgeWiI76F0+VIRSuNVAujQSnI6864vC3thWc=</dsig:DigestValue>
+        <dsig:DigestValue>XE813GOB1WmM3tRHvRT/A+90G1zdtXVoiVaow3Zxe80=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
