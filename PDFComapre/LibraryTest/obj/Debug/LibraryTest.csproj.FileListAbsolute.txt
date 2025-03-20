@@ -220,27 +220,9 @@ C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTe
 C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\obj\Debug\LibraryT.314A797A.Up2Date
 C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\obj\Debug\LibraryTest.dll
 C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\obj\Debug\LibraryTest.pdb
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\bin\Debug\libSkiaSharp.dylib
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\bin\Debug\x86\libSkiaSharp.dll
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\bin\Debug\x64\libSkiaSharp.dll
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\bin\Debug\arm64\libSkiaSharp.dll
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\bin\Debug\SkiaSharp.dll
 C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\bin\Debug\Syncfusion.OfficeChart.Base.dll
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\bin\Debug\System.Buffers.dll
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\bin\Debug\System.Memory.dll
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\bin\Debug\System.Numerics.Vectors.dll
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\bin\Debug\CompareUtility.dll.config
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\bin\Debug\SkiaSharp.pdb
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\bin\Debug\SkiaSharp.xml
 C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\bin\Debug\Syncfusion.OfficeChart.Base.xml
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\bin\Debug\System.Buffers.xml
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\bin\Debug\System.Memory.xml
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\bin\Debug\System.Numerics.Vectors.xml
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\bin\Debug\Xceed.Document.NET.dll
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\bin\Debug\Xceed.Drawing.NET.dll
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\bin\Debug\Xceed.Words.NET.dll
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\obj\Debug\LibraryTest.csproj.AssemblyReference.cache
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\obj\Debug\LibraryTest.csproj.CoreCompileInputs.cache
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\bin\Debug\IgnoreCoordinatesXML.xml
@@ -291,3 +273,4 @@ C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryT
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\obj\Debug\LibraryT.314A797A.Up2Date
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\obj\Debug\LibraryTest.dll
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\LibraryTest\obj\Debug\LibraryTest.pdb
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\LibraryTest\bin\Debug\ImageDiff.dll.config

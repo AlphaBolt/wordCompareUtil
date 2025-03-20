@@ -422,44 +422,44 @@ namespace CompareUtility
         }
 
         private string ComparePDFPages(string differencesFolderPath, string tempFolder1, string tempFolder2, string PagesNotSame, int sourceRange, int? targetRange = null)
+{
+    if (targetRange != null && targetRange > 0)
+    {
+        bool result = ComparePage(tempFolder1 + "\\Page" + sourceRange + ".jpg", tempFolder2 + "\\Page" + targetRange + ".jpg", differencesFolderPath, sourceRange);
+        if (result)
         {
-            if (targetRange != null && targetRange > 0)
-            {
-                bool result = ComparePage(tempFolder1 + "\\Page" + sourceRange + ".jpg", tempFolder2 + "\\Page" + targetRange + ".jpg", differencesFolderPath, sourceRange);
-                if (result)
-                {
-                    report.AddPageReport(sourceRange, Difference, "Passed", "Pages are same.", "");
-                    report.IsPass = true;
-                }
-                else
-                {
-                    report.AddPageReport(sourceRange, Difference, "Fail", "Pages are not same", differencesFolderPath + "\\CombinedDiff" + sourceRange + ".jpg");
-                    report.Indicator = false;
-                    report.Result = "Fail";
-                    PagesNotSame = PagesNotSame + " Source Pdf Page- " + sourceRange.ToString() + " Target Pdf Page- " + targetRange.ToString() + ", ";
-                    report.IsPass = false;
-                }
-                return PagesNotSame;
-            }
-            else
-            {
-                bool result = ComparePage(tempFolder1 + "\\Page" + sourceRange + ".jpg", tempFolder2 + "\\Page" + sourceRange + ".jpg", differencesFolderPath, sourceRange);
-                if (result)
-                {
-                    report.AddPageReport(sourceRange, Difference, "Passed", "Pages are same.", "");
-                    report.IsPass = true;
-                }
-                else
-                {
-                    report.AddPageReport(sourceRange, Difference, "Fail", "Pages are not same", differencesFolderPath + "\\CombinedDiff" + sourceRange + ".jpg");
-                    report.Indicator = false;
-                    report.Result = "Fail";
-                    PagesNotSame = PagesNotSame + sourceRange.ToString() + ", ";
-                    report.IsPass = false;
-                }
-                return PagesNotSame;
-            }
+            report.AddPageReport(sourceRange, Difference, "Passed", "Pages are same.", differencesFolderPath + "\\CombinedDiff" + sourceRange + ".jpg");
+            report.IsPass = true;
         }
+        else
+        {
+            report.AddPageReport(sourceRange, Difference, "Fail", "Pages are not same", differencesFolderPath + "\\CombinedDiff" + sourceRange + ".jpg");
+            report.Indicator = false;
+            report.Result = "Fail";
+            PagesNotSame = PagesNotSame + " Source Pdf Page- " + sourceRange.ToString() + " Target Pdf Page- " + targetRange.ToString() + ", ";
+            report.IsPass = false;
+        }
+        return PagesNotSame;
+    }
+    else
+    {
+        bool result = ComparePage(tempFolder1 + "\\Page" + sourceRange + ".jpg", tempFolder2 + "\\Page" + sourceRange + ".jpg", differencesFolderPath, sourceRange);
+        if (result)
+        {
+            report.AddPageReport(sourceRange, Difference, "Passed", "Pages are same.", differencesFolderPath + "\\CombinedDiff" + sourceRange + ".jpg");
+            report.IsPass = true;
+        }
+        else
+        {
+            report.AddPageReport(sourceRange, Difference, "Fail", "Pages are not same", differencesFolderPath + "\\CombinedDiff" + sourceRange + ".jpg");
+            report.Indicator = false;
+            report.Result = "Fail";
+            PagesNotSame = PagesNotSame + sourceRange.ToString() + ", ";
+            report.IsPass = false;
+        }
+        return PagesNotSame;
+    }
+}
 
         private void DeleteTempPDFImageFolders(string reportFolderpath)
         {
@@ -633,21 +633,29 @@ namespace CompareUtility
                 IsDifferentImage(source, destination);
                 using (Bitmap diff = GetDifference(source, destination))
                 {
+                    string combinedDiffPath;
                     if (Difference > 0)
                     {
+                        // Save the difference image with red boxes
                         diff.Save(reportDiffPath + "\\Page" + pageNum + ".jpg", ImageFormat.Jpeg);
-                        string CombinedDiff = CombineImages(PagePath1, reportDiffPath + "\\Page" + pageNum + ".jpg", reportDiffPath, pageNum);
-                        return false;
+                        // Combine the original source image with the difference image (with red boxes)
+                        combinedDiffPath = CombineImages(PagePath1, reportDiffPath + "\\Page" + pageNum + ".jpg", reportDiffPath, pageNum);
+                        source.Dispose();
+                        destination.Dispose();
+                        return false; // Images are different
                     }
                     else
-                        return true;
+                    {
+                        // When images are the same, combine the two original images (no diff image needed)
+                        combinedDiffPath = CombineImages(PagePath1, Pagepath2, reportDiffPath, pageNum);
+                        source.Dispose();
+                        destination.Dispose();
+                        return true; // Images are the same
+                    }
                 }
-
-                source.Dispose();
-                destination.Dispose();
             }
 
-            return true;
+            return true; // Default case when files don't exist
         }
 
         private unsafe void IsDifferentImage(Bitmap image1, Bitmap image2)

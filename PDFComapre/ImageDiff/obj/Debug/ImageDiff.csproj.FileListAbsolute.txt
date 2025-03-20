@@ -102,24 +102,6 @@ C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\ImageDiff
 C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\ImageDiff\bin\Debug\Syncfusion.OfficeChart.Base.dll
 C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\ImageDiff\bin\Debug\Syncfusion.Compression.Base.xml
 C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\ImageDiff\bin\Debug\Syncfusion.OfficeChart.Base.xml
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\ImageDiff\bin\Debug\libSkiaSharp.dylib
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\ImageDiff\bin\Debug\x86\libSkiaSharp.dll
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\ImageDiff\bin\Debug\x64\libSkiaSharp.dll
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\ImageDiff\bin\Debug\arm64\libSkiaSharp.dll
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\ImageDiff\bin\Debug\SkiaSharp.dll
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\ImageDiff\bin\Debug\System.Buffers.dll
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\ImageDiff\bin\Debug\System.Memory.dll
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\ImageDiff\bin\Debug\System.Numerics.Vectors.dll
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\ImageDiff\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\ImageDiff\bin\Debug\SkiaSharp.pdb
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\ImageDiff\bin\Debug\SkiaSharp.xml
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\ImageDiff\bin\Debug\System.Buffers.xml
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\ImageDiff\bin\Debug\System.Memory.xml
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\ImageDiff\bin\Debug\System.Numerics.Vectors.xml
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\ImageDiff\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\ImageDiff\bin\Debug\Xceed.Document.NET.dll
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\ImageDiff\bin\Debug\Xceed.Drawing.NET.dll
-C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\ImageDiff\bin\Debug\Xceed.Words.NET.dll
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\ImageDiff\bin\Debug\ImageDiff.dll.config
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\ImageDiff\bin\Debug\ImageDiff.dll
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\ImageDiff\bin\Debug\ImageDiff.pdb
@@ -145,3 +127,4 @@ C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\ImageDif
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\ImageDiff\obj\Debug\ImageDiff.csproj.Up2Date
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\ImageDiff\obj\Debug\ImageDiff.dll
 C:\Users\KIIT\Desktop\c sharp\New folder (2)\wordCompareUtil\PDFComapre\ImageDiff\obj\Debug\ImageDiff.pdb
+C:\Users\pocuser\Desktop\dotnet\PDFCompare - Git\PDFCompare\PDFComapre\ImageDiff\bin\Debug\ImageDiff.dll.config

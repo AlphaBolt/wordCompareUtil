@@ -185,72 +185,148 @@ namespace PDFCompare
 			string targetPageRange = multipleTargetRangeTextBox[$"targetRangeTextBox_{i}"].Text;
 
 
-			if (text_OR_imageBtn.Checked)
-			{
-				try
-				{
-					if (!string.IsNullOrEmpty(File1diff.Trim()) && !string.IsNullOrEmpty(File2diff.Trim()))
-					{
+            //if (text_OR_imageBtn.Checked)
+            //{
+            //	try
+            //	{
+            //		if (!string.IsNullOrEmpty(File1diff.Trim()) && !string.IsNullOrEmpty(File2diff.Trim()))
+            //		{
 
-						var result = Program.fnPDFDiff_FormTemplate(File1diff, File2diff, ComparisonReportFile, sourcePageRange, targetPageRange, true);
+            //			var result = Program.fnPDFDiff_FormTemplate(File1diff, File2diff, ComparisonReportFile, sourcePageRange, targetPageRange, true);
 
-						if (result.Message.Split('|')[1] != "Page Numbers are Not Same" && result.Message.Split('|')[1] != "Both PDF are same." && result.Message.Split('|')[1] != "Please provide source and target same range to compare due to different number of pages.")
-						{
-							string resultImage = Path.Combine(resultPath, "Reports");
+            //			if (result.Message.Split('|')[1] != "Page Numbers are Not Same" && result.Message.Split('|')[1] != "Both PDF are same." && result.Message.Split('|')[1] != "Please provide source and target same range to compare due to different number of pages.")
+            //			{
+            //				string resultImage = Path.Combine(resultPath, "Reports");
 
-							DirectoryInfo resultfolder = new DirectoryInfo(resultImage);
-							DirectoryInfo latestdir = resultfolder.GetDirectories().OrderByDescending(f => f.CreationTime).FirstOrDefault();
+            //				DirectoryInfo resultfolder = new DirectoryInfo(resultImage);
+            //				DirectoryInfo latestdir = resultfolder.GetDirectories().OrderByDescending(f => f.CreationTime).FirstOrDefault();
 
-							ImageList imageList = new ImageList();
-							string imagePath = Path.Combine(latestdir.FullName, "Differences");
+            //				ImageList imageList = new ImageList();
+            //				string imagePath = Path.Combine(latestdir.FullName, "Differences");
 
-							if (Directory.Exists(imagePath))
-							{
-								string[] filePaths = Directory.GetFiles(imagePath, "*.jpg").Where(x => x.Contains("CombinedDiff")).ToArray();
-								ShowImages(filePaths, i);
-							}
-						}
+            //				if (Directory.Exists(imagePath))
+            //				{
+            //					string[] filePaths = Directory.GetFiles(imagePath, "*.jpg").Where(x => x.Contains("CombinedDiff")).ToArray();
+            //					ShowImages(filePaths, i);
+            //				}
+            //			}
 
-						if (result.Message.Split('|')[1] == "Please provide source and target same range to compare due to different number of pages.")
-						{
-							labelErrorMessage.Text = "Please provide source and target same range to compare due to different number of pages.";
-							labelErrorMessage.BackColor = Color.Red;
-							labelErrorMessage.Visible = true;
-							labelResultPath.Visible = false;
+            //			if (result.Message.Split('|')[1] == "Please provide source and target same range to compare due to different number of pages.")
+            //			{
+            //				labelErrorMessage.Text = "Please provide source and target same range to compare due to different number of pages.";
+            //				labelErrorMessage.BackColor = Color.Red;
+            //				labelErrorMessage.Visible = true;
+            //				labelResultPath.Visible = false;
 
-						}
+            //			}
 
-						if (result.Message.Split('|')[2] != string.Empty && result.Message.Split('|')[2] == "True" && result.Message.Split('|')[1] != "Please provide source and target same range to compare due to different number of pages.")
-						{
-							multipleResultStatus[$"resultStatus_{i}"].Text = "Pass";
-							multipleResultStatus[$"resultStatus_{i}"].BackColor = Color.Green;
-							multipleResultStatus[$"resultStatus_{i}"].Visible = true;
-						}
-						else if (result.Message.Split('|')[2] != string.Empty && result.Message.Split('|')[2] == "False" && result.Message.Split('|')[1] != "Please provide source and target same range to compare due to different number of pages.")
-						{
-							multipleResultStatus[$"resultStatus_{i}"].Text = "Fail";
-							multipleResultStatus[$"resultStatus_{i}"].BackColor = Color.Red;
-							multipleResultStatus[$"resultStatus_{i}"].Visible = true;
-						}
+            //			if (result.Message.Split('|')[2] != string.Empty && result.Message.Split('|')[2] == "True" && result.Message.Split('|')[1] != "Please provide source and target same range to compare due to different number of pages.")
+            //			{
+            //				multipleResultStatus[$"resultStatus_{i}"].Text = "Pass";
+            //				multipleResultStatus[$"resultStatus_{i}"].BackColor = Color.Green;
+            //				multipleResultStatus[$"resultStatus_{i}"].Visible = true;
+            //			}
+            //			else if (result.Message.Split('|')[2] != string.Empty && result.Message.Split('|')[2] == "False" && result.Message.Split('|')[1] != "Please provide source and target same range to compare due to different number of pages.")
+            //			{
+            //				multipleResultStatus[$"resultStatus_{i}"].Text = "Fail";
+            //				multipleResultStatus[$"resultStatus_{i}"].BackColor = Color.Red;
+            //				multipleResultStatus[$"resultStatus_{i}"].Visible = true;
+            //			}
 
-					}
-					else
-					{
-						labelErrorMessage.Text = "Files does not exist.";
-						labelErrorMessage.BackColor = Color.Red;
-						labelErrorMessage.Visible = true;
-						labelResultPath.Visible = false;
-					}
+            //		}
+            //		else
+            //		{
+            //			labelErrorMessage.Text = "Files does not exist.";
+            //			labelErrorMessage.BackColor = Color.Red;
+            //			labelErrorMessage.Visible = true;
+            //			labelResultPath.Visible = false;
+            //		}
 
-				}
-				catch (Exception ex)
-				{
-					labelErrorMessage.Text = "Failure";
-					labelErrorMessage.Visible = true;
-					labelResultPath.Visible = false;
-				}
-			}
-			else
+            //	}
+            //	catch (Exception ex)
+            //	{
+            //		labelErrorMessage.Text = "Failure";
+            //		labelErrorMessage.Visible = true;
+            //		labelResultPath.Visible = false;
+            //	}
+            //}
+
+            if (text_OR_imageBtn.Checked)
+            {
+                try
+                {
+                    if (!string.IsNullOrEmpty(File1diff.Trim()) && !string.IsNullOrEmpty(File2diff.Trim()))
+                    {
+                        var result = Program.fnPDFDiff_FormTemplate(File1diff, File2diff, ComparisonReportFile, sourcePageRange, targetPageRange, true);
+
+                        // Always attempt to show images if the comparison completed successfully
+                        string resultImage = Path.Combine(resultPath, "Reports");
+                        DirectoryInfo resultfolder = new DirectoryInfo(resultImage);
+                        DirectoryInfo latestdir = resultfolder.GetDirectories().OrderByDescending(f => f.CreationTime).FirstOrDefault();
+
+                        if (latestdir != null) // Ensure a directory exists
+                        {
+                            ImageList imageList = new ImageList();
+                            string imagePath = Path.Combine(latestdir.FullName, "Differences");
+
+                            if (Directory.Exists(imagePath))
+                            {
+                                string[] filePaths = Directory.GetFiles(imagePath, "*.jpg").Where(x => x.Contains("CombinedDiff")).ToArray();
+                                if (filePaths.Length > 0) // Only call ShowImages if there are files
+                                {
+                                    ShowImages(filePaths, i);
+                                }
+                            }
+                        }
+
+                        // Handle specific error messages
+                        if (result.Message.Split('|')[1] == "Please provide source and target same range to compare due to different number of pages.")
+                        {
+                            labelErrorMessage.Text = "Please provide source and target same range to compare due to different number of pages.";
+                            labelErrorMessage.BackColor = Color.Red;
+                            labelErrorMessage.Visible = true;
+                            labelResultPath.Visible = false;
+                        }
+                        else if (result.Message.Split('|')[1] == "Page Numbers are Not Same")
+                        {
+                            labelErrorMessage.Text = "Page numbers are not the same.";
+                            labelErrorMessage.BackColor = Color.Red;
+                            labelErrorMessage.Visible = true;
+                            labelResultPath.Visible = false;
+                        }
+                        else
+                        {
+                            // Update status regardless of differences
+                            if (result.Message.Split('|')[2] != string.Empty && result.Message.Split('|')[2] == "True")
+                            {
+                                multipleResultStatus[$"resultStatus_{i}"].Text = "Pass";
+                                multipleResultStatus[$"resultStatus_{i}"].BackColor = Color.Green;
+                                multipleResultStatus[$"resultStatus_{i}"].Visible = true;
+                            }
+                            else if (result.Message.Split('|')[2] != string.Empty && result.Message.Split('|')[2] == "False")
+                            {
+                                multipleResultStatus[$"resultStatus_{i}"].Text = "Fail";
+                                multipleResultStatus[$"resultStatus_{i}"].BackColor = Color.Red;
+                                multipleResultStatus[$"resultStatus_{i}"].Visible = true;
+                            }
+                        }
+                    }
+                    else
+                    {
+                        labelErrorMessage.Text = "Files does not exist.";
+                        labelErrorMessage.BackColor = Color.Red;
+                        labelErrorMessage.Visible = true;
+                        labelResultPath.Visible = false;
+                    }
+                }
+                catch (Exception ex)
+                {
+                    labelErrorMessage.Text = "Failure";
+                    labelErrorMessage.Visible = true;
+                    labelResultPath.Visible = false;
+                }
+            }
+            else
 			{
 				try
 				{

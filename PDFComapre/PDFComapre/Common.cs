@@ -317,10 +317,21 @@ namespace PDFCompare
             try
             {
                 WordComparer wordComparer = new WordComparer();
+                PDFComparer pdfcomparer = new PDFComparer();
                 XmlDocument ignorecoordinatesxml = new XmlDocument();
                 ignorecoordinatesxml.Load(ignorecoordinatesfilepath);
                 XmlNode fileXML = ignorecoordinatesxml.SelectSingleNode("//PDFFile[@filepath='" + destination.ToLower().Trim() + "']");
-                return wordComparer.Compare(source, destination, fileXML, reportResult, sourcePageRangeList, targetPageRangeList);
+
+                //First convert word to pdf
+                wordComparer.WordToPDF(source, destination, reportResult, out string sourcePDFfilepath, out string targetPDFfilepath);
+
+                //Then perform pdf image comparison using existing code
+                var result = pdfcomparer.Compare(sourcePDFfilepath, targetPDFfilepath, fileXML, reportResult, sourcePageRangeList, targetPageRangeList);
+
+                //Delete the temporary pdf folder
+                wordComparer.DeleteTempPdfFolder(reportResult);
+
+                return result;
             }
             catch (Exception ex)
             {
