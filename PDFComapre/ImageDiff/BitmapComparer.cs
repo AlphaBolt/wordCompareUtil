@@ -52,8 +52,18 @@ namespace ImageDiff
         {
             if (firstImage == null) throw new ArgumentNullException("firstImage");
             if (secondImage == null) throw new ArgumentNullException("secondImage");
-            if (firstImage.Width != secondImage.Width || firstImage.Height != secondImage.Height) throw new ArgumentException("Bitmaps must be the same size.");
-            
+
+            // Pad images with white pixels if they are not the same size
+            if (firstImage.Width != secondImage.Width || firstImage.Height != secondImage.Height)
+            {
+                // Determine the maximum dimensions
+                int maxWidth = Math.Max(firstImage.Width, secondImage.Width);
+                int maxHeight = Math.Max(firstImage.Height, secondImage.Height);
+
+                firstImage = PadImage(firstImage, maxWidth, maxHeight);
+                secondImage = PadImage(secondImage, maxWidth, maxHeight); ;
+            }
+
             var differenceMap = BitmapAnalyzer.Analyze(firstImage, secondImage);
             var differenceLabels = Labeler.Label(differenceMap);
             var boundingBoxes = BoundingBoxIdentifier.CreateBoundingBoxes(differenceLabels);
@@ -76,5 +86,22 @@ namespace ImageDiff
             }
             return differenceBitmap;
         }
+
+        private Bitmap PadImage(Bitmap image, int width, int height)
+        {
+            // Create a new bitmap with the specified dimensions
+            Bitmap padded = new Bitmap(width, height);
+            using (Graphics g = Graphics.FromImage(padded))
+            {
+                // Fill with white background
+                g.Clear(Color.White);
+                // Draw the original image using the calculated offsets
+                int xOffset = (width - image.Width) / 2;
+                int yOffset = (height - image.Height) / 2;
+                g.DrawImage(image, xOffset, yOffset, image.Width, image.Height);
+            }
+            return padded;
+        }
+
     }
 }

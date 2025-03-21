@@ -422,44 +422,44 @@ namespace CompareUtility
         }
 
         private string ComparePDFPages(string differencesFolderPath, string tempFolder1, string tempFolder2, string PagesNotSame, int sourceRange, int? targetRange = null)
-{
-    if (targetRange != null && targetRange > 0)
-    {
-        bool result = ComparePage(tempFolder1 + "\\Page" + sourceRange + ".jpg", tempFolder2 + "\\Page" + targetRange + ".jpg", differencesFolderPath, sourceRange);
-        if (result)
         {
-            report.AddPageReport(sourceRange, Difference, "Passed", "Pages are same.", differencesFolderPath + "\\CombinedDiff" + sourceRange + ".jpg");
-            report.IsPass = true;
+            if (targetRange != null && targetRange > 0)
+            {
+                bool result = ComparePage(tempFolder1 + "\\Page" + sourceRange + ".jpg", tempFolder2 + "\\Page" + targetRange + ".jpg", differencesFolderPath, sourceRange);
+                if (result)
+                {
+                    report.AddPageReport(sourceRange, Difference, "Passed", "Pages are same.", differencesFolderPath + "\\CombinedDiff" + sourceRange + ".jpg");
+                    report.IsPass = true;
+                }
+                else
+                {
+                    report.AddPageReport(sourceRange, Difference, "Fail", "Pages are not same", differencesFolderPath + "\\CombinedDiff" + sourceRange + ".jpg");
+                    report.Indicator = false;
+                    report.Result = "Fail";
+                    PagesNotSame = PagesNotSame + " Source Pdf Page- " + sourceRange.ToString() + " Target Pdf Page- " + targetRange.ToString() + ", ";
+                    report.IsPass = false;
+                }
+                return PagesNotSame;
+            }
+            else
+            {
+                bool result = ComparePage(tempFolder1 + "\\Page" + sourceRange + ".jpg", tempFolder2 + "\\Page" + sourceRange + ".jpg", differencesFolderPath, sourceRange);
+                if (result)
+                {
+                    report.AddPageReport(sourceRange, Difference, "Passed", "Pages are same.", differencesFolderPath + "\\CombinedDiff" + sourceRange + ".jpg");
+                    report.IsPass = true;
+                }
+                else
+                {
+                    report.AddPageReport(sourceRange, Difference, "Fail", "Pages are not same", differencesFolderPath + "\\CombinedDiff" + sourceRange + ".jpg");
+                    report.Indicator = false;
+                    report.Result = "Fail";
+                    PagesNotSame = PagesNotSame + sourceRange.ToString() + ", ";
+                    report.IsPass = false;
+                }
+                return PagesNotSame;
+            }
         }
-        else
-        {
-            report.AddPageReport(sourceRange, Difference, "Fail", "Pages are not same", differencesFolderPath + "\\CombinedDiff" + sourceRange + ".jpg");
-            report.Indicator = false;
-            report.Result = "Fail";
-            PagesNotSame = PagesNotSame + " Source Pdf Page- " + sourceRange.ToString() + " Target Pdf Page- " + targetRange.ToString() + ", ";
-            report.IsPass = false;
-        }
-        return PagesNotSame;
-    }
-    else
-    {
-        bool result = ComparePage(tempFolder1 + "\\Page" + sourceRange + ".jpg", tempFolder2 + "\\Page" + sourceRange + ".jpg", differencesFolderPath, sourceRange);
-        if (result)
-        {
-            report.AddPageReport(sourceRange, Difference, "Passed", "Pages are same.", differencesFolderPath + "\\CombinedDiff" + sourceRange + ".jpg");
-            report.IsPass = true;
-        }
-        else
-        {
-            report.AddPageReport(sourceRange, Difference, "Fail", "Pages are not same", differencesFolderPath + "\\CombinedDiff" + sourceRange + ".jpg");
-            report.Indicator = false;
-            report.Result = "Fail";
-            PagesNotSame = PagesNotSame + sourceRange.ToString() + ", ";
-            report.IsPass = false;
-        }
-        return PagesNotSame;
-    }
-}
 
         private void DeleteTempPDFImageFolders(string reportFolderpath)
         {
